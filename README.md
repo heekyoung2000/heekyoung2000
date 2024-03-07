@@ -1,9 +1,10 @@
 
 ### 👋 Hello, I'm Heekyoung 👋
+ <!--
  [![mail Badge](https://img.shields.io/badge/-heekyoung2000@naver.com-03C75A?style=flat&logo=Gmail&logoColor=white&link=mailto:heekyoung2000@naver.com)](mailto:heekyoung2000@naver.com) 
  [![resume](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=ReadMe&logoColor=white&link=https://thorn-sock-33a.notion.site/88ca1e9affc648a8913269a41058dac2?pvs=4)](https://thorn-sock-33a.notion.site/88ca1e9affc648a8913269a41058dac2?pvs=4) 
  [![Blog](https://img.shields.io/badge/-velog-green?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@heekyoung2000/posts)](https://velog.io/@heekyoung2000/posts)
-
+-->
  <p align=left> <img src=https://komarev.com/ghpvc/?username=heekyoung2000 alt=heekyoung2000 /> </p>
  <p align='left'>
 
