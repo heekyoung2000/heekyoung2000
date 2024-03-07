@@ -29,7 +29,7 @@
 <br>
 
 ### 💪 Backjoon Solved Rank
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=heekyoung2000)](https://solved.ac/heekyoung2000)<br/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=heekyoung2000)](https://solved.ac/heekyoung2000)<br/>
 
 <br>
 
@@ -37,6 +37,6 @@
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heekyoung2000&show_icons=true&theme=radical">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heekyoung2000&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heekyoung2000&layout=compact">
 
 </p>
