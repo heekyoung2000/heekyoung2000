@@ -10,7 +10,7 @@
 
 
 ### 👉 About me
-* 🎓 I'm currently learning back-end skills
+* 🎓 I'm currently learning cloud skills
 * 🐢 I don't get frustrated even if I fail, and I try to solve the problem
 
 <br>
